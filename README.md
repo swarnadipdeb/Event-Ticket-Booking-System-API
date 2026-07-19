@@ -2,6 +2,8 @@
 
 A Spring Boot REST API backend for managing event bookings. Users can register as organizers or customers, create events with ticket availability, and book tickets to events.
 
+## Live Link -> [https://event-ticket-booking-system-api-production-e08a.up.railway.app](https://event-ticket-booking-system-api-production-e08a.up.railway.app)
+
 ## Tech Stack
 
 - **Java 17** with **Spring Boot 4.0.2**
